@@ -1,18 +1,17 @@
 ### Technical Partner @ [Fractal Rose](https://fractalrose.co.uk) 🌹
-**Bridging the gap between non-technical leaders and tech.**
+**Beautifully simple technology**
 
 📍 Based in Oxfordshire.
 
-At **Fractal Rose**, we believe that technology should support your vision, not complicate it. Fractal Rose provides jargon-free technical partnership for experts who need a versatile hand with code, documentation, or training.
+Technology should support your vision, not complicate it. Whether you need a developer, an educator, or a technical advocate, I can help your project succeed.
 
 ---
 
 ### 🌹 Services
 
-*   **Technical discovery**: Translating ideas into technical requirements. 
-*   **Tech literacy training for executives**: Acting as a technical translator with clients, or for founders. 
-*   **Bespoke training**: Leverage 18 years of technical education experience to empower your team. 
-*   **Developer relations**: Fractional DevRel for your product. 
+*   **Build**: I live in Python and JavaScript. Whether it's contributing to your open-source project or accelerating your roadmap, I can help your team get results faster.
+*   **Explain**: Great software is only great if people actually use it. I help your users master your tools by turning technical features into engaging, easy-to-follow online courses and slick documentation.
+*   **Evangelise**: Help your technology find its audience. I create authentic, deep-dive DevRel content, from technical blog posts to interactive guides to build trust with developers.
 
 ---
 
