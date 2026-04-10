@@ -3,15 +3,15 @@
 
 📍 Based in Oxfordshire.
 
-Technology should support your vision, not complicate it. Whether you need a developer, an educator, or a technical advocate, I can help your project succeed.
+Technology should support your vision, not complicate it. 
 
 ---
 
 ### 🌹 Services
 
-*   **Build**: I live in Python and JavaScript. Whether it's contributing to your open-source project or accelerating your roadmap, I can help your team get results faster.
-*   **Explain**: Great software is only great if people actually use it. I help your users master your tools by turning technical features into engaging, easy-to-follow online courses and slick documentation.
-*   **Evangelise**: Help your technology find its audience. I create authentic, deep-dive DevRel content, from technical blog posts to interactive guides to build trust with developers.
+*   **Build**: I can contribute to your open-source project or write small scripts to help your team get results faster.
+*   **Explain**: Great software is only great if people actually use it. I can help your users master your tools with engaging, easy-to-follow online courses and slick documentation.
+*   **Evangelise**: I create authentic content, from technical blog posts to video guides.
 
 ---
 
