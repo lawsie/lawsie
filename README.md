@@ -1,9 +1,7 @@
 ### Technical Partner @ [Fractal Rose](https://fractalrose.co.uk) 🌹
 **Beautifully simple technology**
 
-📍 Based in Oxfordshire.
-
-Technology should support your vision, not complicate it. 
+Currently fully booked - contracting at GitHub (@v-lawsie)
 
 ---
 
